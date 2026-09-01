@@ -1,2 +1,2 @@
 Git Class
-simulating a push before pull
+Lisa is trying to learn Devops
